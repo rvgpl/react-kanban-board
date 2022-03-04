@@ -1,0 +1,6 @@
+.text-field {
+  border: 1px solid var(--borderColor);
+  padding: 1rem;
+  font-size: 1rem;
+  width: 100%;
+}
