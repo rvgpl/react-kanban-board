@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card should not render button on disableButton is true 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <p
+      class="card-text"
+    >
+      Task 1
+    </p>
+    <div
+      class="card-footer"
+    >
+      <time
+        class="card-timestamp"
+      >
+        4-3-2022 20:48
+      </time>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Card should render 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <p
+      class="card-text"
+    >
+      Task 1
+    </p>
+    <div
+      class="card-footer"
+    >
+      <time
+        class="card-timestamp"
+      >
+        4-3-2022 20:48
+      </time>
+      <button
+        class="button"
+        data-testid="button"
+      >
+        Move &gt;
+      </button>
+    </div>
+  </div>
+</div>
+`;
