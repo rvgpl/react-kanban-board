@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Lane should render 1`] = `
+<div>
+  <section
+    class="lane"
+  >
+    <h2
+      class="lane-title"
+    >
+      todo
+    </h2>
+    <div
+      class="lane-items"
+    >
+      <p>
+        Item 1
+      </p>
+      <p>
+        Item 2
+      </p>
+    </div>
+  </section>
+</div>
+`;
