@@ -1,0 +1,182 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Board should render 1`] = `
+<div>
+  <section
+    class="board"
+  >
+    <div
+      class="board-input-field"
+    >
+      <input
+        class="text-field"
+        data-testid="text-field"
+        value=""
+      />
+      <button
+        class="button"
+        data-testid="button"
+      >
+        Add
+      </button>
+    </div>
+    <div
+      class="board-lanes"
+    >
+      <section
+        class="lane"
+      >
+        <h2
+          class="lane-title"
+        >
+          Todo
+        </h2>
+        <div
+          class="lane-items"
+        >
+          <div
+            class="card"
+          >
+            <p
+              class="card-text"
+            >
+              Improve website UI polish
+            </p>
+            <div
+              class="card-footer"
+            >
+              <time
+                class="card-timestamp"
+              >
+                4-3-2022 20:48
+              </time>
+              <button
+                class="button"
+                data-testid="button"
+              >
+                Move &gt;
+              </button>
+            </div>
+          </div>
+          <div
+            class="card"
+          >
+            <p
+              class="card-text"
+            >
+              Disable button on page 4
+            </p>
+            <div
+              class="card-footer"
+            >
+              <time
+                class="card-timestamp"
+              >
+                4-3-2022 20:48
+              </time>
+              <button
+                class="button"
+                data-testid="button"
+              >
+                Move &gt;
+              </button>
+            </div>
+          </div>
+          <div
+            class="card"
+          >
+            <p
+              class="card-text"
+            >
+              Refactor card component
+            </p>
+            <div
+              class="card-footer"
+            >
+              <time
+                class="card-timestamp"
+              >
+                4-3-2022 20:48
+              </time>
+              <button
+                class="button"
+                data-testid="button"
+              >
+                Move &gt;
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="lane"
+      >
+        <h2
+          class="lane-title"
+        >
+          In Progress
+        </h2>
+        <div
+          class="lane-items"
+        >
+          <div
+            class="card"
+          >
+            <p
+              class="card-text"
+            >
+              Create a Kanban board
+            </p>
+            <div
+              class="card-footer"
+            >
+              <time
+                class="card-timestamp"
+              >
+                4-3-2022 20:48
+              </time>
+              <button
+                class="button"
+                data-testid="button"
+              >
+                Move &gt;
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="lane"
+      >
+        <h2
+          class="lane-title"
+        >
+          Done
+        </h2>
+        <div
+          class="lane-items"
+        >
+          <div
+            class="card"
+          >
+            <p
+              class="card-text"
+            >
+              Create a sample react project
+            </p>
+            <div
+              class="card-footer"
+            >
+              <time
+                class="card-timestamp"
+              >
+                4-3-2022 20:48
+              </time>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </section>
+</div>
+`;

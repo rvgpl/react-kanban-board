@@ -1,0 +1,17 @@
+.board {
+  max-width: 1200px;
+  margin: 50px auto;
+}
+.board-input-field {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.board-lanes {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1.4rem;
+}
