@@ -1,0 +1,11 @@
+.button {
+  -webkit-appearance: none;
+  background-color: var(--primaryBgColor);
+  padding: 1rem;
+  margin: 0;
+  border: none;
+  box-shadow: none;
+  color: var(--primaryColor);
+  font-size: 1rem;
+  cursor: pointer;
+}
