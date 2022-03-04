@@ -1,5 +1,8 @@
 :root {
   --primaryTypeface: 'Work Sans', sans-serif;
+  --primaryBgColor: red;
+  --primaryColor: whitesmoke;
+  --borderColor: gray;
   }
 
 *, *::before, *::after {
@@ -32,4 +35,3 @@ input, button, textarea, select {
 p, h1, h2, h3, h4, h5, h6 {
   overflow-wrap: break-word;
 }
-
